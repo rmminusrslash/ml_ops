@@ -1,9 +1,18 @@
 # Machine Learning Operations
 
 
+## Building
+I use poetry. It has several advantages over pip and conda, some important ones:
+- You can specify the python version 
+- You get a reproducable environment because it pins transitive dependencies and writes them to a poetry.lock file
+- It supports uninstalling all libraries not listed in the current poetry.lock file
+
+
+## Reading
+
 Here are some of my favourite resources:
 
-## What’s your ML test score? A rubric for ML production systems
+### What’s your ML test score? A rubric for ML production systems
 Eric Breck Shanqing Cai Eric Nielsen Michael Salib D. Sculley
 Reliable Machine Learning in the Wild - NIPS 2016 Workshop (2016)
 

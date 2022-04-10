@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ml_ops"
+version = "0.1.0"
+description = ""
+authors = ["Lina Weichbrodt <lina.weichbrodt@extern.dkbcodefactory.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+numpy = "^1.22.3"
+pandas = "^1.4.2"
+sklearn = "^0.0"
+matplotlib = "^3.5.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -10,6 +10,11 @@ I use poetry. It has several advantages over pip and conda, some important ones:
 
 ## Reading
 
+# Introductions
+
+
+# Expert Reading
+
 Here are some of my favourite resources:
 
 ### What’s your ML test score? A rubric for ML production systems

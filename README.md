@@ -10,14 +10,14 @@ I use poetry. It has several advantages over pip and conda, some important ones:
 
 ## Reading
 
-# Introductions
+### introductionary Material
 
 
-# Expert Reading
+### Expert Reading
 
 Here are some of my favourite resources:
 
-### What’s your ML test score? A rubric for ML production systems
+#### What’s your ML test score? A rubric for ML production systems
 Eric Breck Shanqing Cai Eric Nielsen Michael Salib D. Sculley
 Reliable Machine Learning in the Wild - NIPS 2016 Workshop (2016)
 

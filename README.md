@@ -7,10 +7,13 @@ I use poetry. It has several advantages over pip and conda, some important ones:
 - You get a reproducable environment because it pins transitive dependencies and writes them to a poetry.lock file
 - It supports uninstalling all libraries not listed in the current poetry.lock file
 
+## Development Libraries
+- this is actually before doing any ops. But the library is so useful, I have to throw it in for model/data testing during development: https://deepchecks.com/
+
 
 ## Reading
 
-### introductionary Material
+### Introductionary Material
 
 
 ### Expert Reading

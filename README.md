@@ -11,6 +11,9 @@ I use poetry. It has several advantages over pip and conda, some important ones:
 - this is actually before doing any ops. But the library is so useful, I have to throw it in for model/data testing during development: https://deepchecks.com/
 
 
+## Monitoring
+Here is a talk from pydata on which monitoring metrics to implement: https://youtu.be/wWxqnZb-LSk If you just want to scan the slides, check in this repo.
+
 ## Reading
 
 ### Introductionary Material

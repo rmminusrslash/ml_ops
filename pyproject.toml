@@ -2,7 +2,7 @@
 name = "ml_ops"
 version = "0.1.0"
 description = ""
-authors = ["Lina Weichbrodt <lina.weichbrodt@extern.dkbcodefactory.com>"]
+authors = []
 
 [tool.poetry.dependencies]
 python = "^3.8"
